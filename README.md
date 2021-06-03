@@ -6,7 +6,7 @@ I am currently a social work major in college. (SDPT)
 
 - This is my [repositories](https://github.com/hiper25?tab=repositories)
 - Play CS:GO or Strike of Kings (China)
-- eating late at 🏪 / 🍟 / 🍦 / 🥤 
+- eating late at 🏪  / 🍟 / 🍦 / 🥤 
 
 #### Frequently used tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
