@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm [hiper25](https://mirror.hiper25.com "hiper25")
 
-<s>I am a learning student from China and I want to be an interesting person.<s>
+<s>I am a learning student from China and I want to be an interesting person.</s>
 
-<s>I am currently a social work major in college. (SDPT)<s>
+<s>I am currently a social work major in college. (SDPT)</s>
 
 - This is my [repositories](https://github.com/hiper25?tab=repositories)
 - Play CS:GO
