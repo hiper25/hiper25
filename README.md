@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm [hiper25](https://mirror.hiper25.com "hiper25")
 
-I am a learning student from China and I want to be an interesting person.
+<s>I am a learning student from China and I want to be an interesting person.<s>
 
-I am currently a social work major in college. (SDPT)
+<s>I am currently a social work major in college. (SDPT)<s>
 
 - This is my [repositories](https://github.com/hiper25?tab=repositories)
-- Play CS:GO or Strike of Kings (China)
-- eating late at 🏪  / 🍟 / 🍦 / 🥤 
+- Play CS:GO
+- eating late at 🏪 / 🍟 / 🍦 / 🥤 
 
 #### Frequently used tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
